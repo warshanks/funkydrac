@@ -1,5 +1,6 @@
 # funkydrac
 ### Dracula themed oh-my-zsh themes based on funky
+### ... and a modified oh-my-posh theme.
 <br />
 
 ### funkydrac
@@ -13,3 +14,15 @@
 | **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/warshanks/funkydrac/main/install.sh)"` |
 | **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/warshanks/funkydrac/main/install.sh)"`   |
 | **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/warshanks/funkydrac/main/install.sh)"` |
+<br />
+
+### aliensdracula (oh-my-posh)
+![aliensdracula](./samples/aliensdracula.png)
+### To use, open $PROFILE...
+```powershell
+notepad $PROFILE
+```
+### ... and add
+```powershell
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/warshanks/funkydrac/main/aliensdracula.omp.json' | Invoke-Expression
+```
