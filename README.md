@@ -7,7 +7,9 @@
 ### funkydrac2
 ![funkydrac2](./samples/funkydrac2.png)
 
-### To automatically copy to oh-my-zsh themes directory...
-```shell
-python copy.py
-```
+### To automatically install to oh-my-zsh themes directory...
+| Method    | Command                                                                                           |
+| :-------- | :------------------------------------------------------------------------------------------------ |
+| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/warshanks/funkydrac/install.sh)"` |
+| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/warshanks/funkydrac/install.sh)"`   |
+| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/warshanks/funkydrac/install.sh)"` |
