@@ -1,6 +1,6 @@
 # funkydrac
 ### Dracula themed oh-my-zsh themes based on funky
-### ... and a modified oh-my-posh theme.
+### ... and a modified [oh-my-posh theme](#aliensdracula-oh-my-posh).
 <br />
 
 ### funkydrac
@@ -9,8 +9,8 @@
 ![funkydrac2](./samples/funkydrac2.png)
 
 ### To automatically install to oh-my-zsh themes directory...
-| Method    | Command                                                                                           |
-| :-------- | :------------------------------------------------------------------------------------------------ |
+| Method    | Command                                                                                       |
+|:----------|:----------------------------------------------------------------------------------------------|
 | **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/warshanks/funkydrac/main/install.sh)"` |
 | **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/warshanks/funkydrac/main/install.sh)"`   |
 | **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/warshanks/funkydrac/main/install.sh)"` |
