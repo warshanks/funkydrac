@@ -16,7 +16,7 @@
 <br />
 
 ## aliensdracula (oh-my-posh)
-#### This theme uses the [Dracula color scheme for Terminal](https://draculatheme.com/windows-terminal)
+#### This theme uses the [Dracula color scheme for Windows Terminal](https://draculatheme.com/windows-terminal)
 ![aliensdracula](./samples/aliensdracula.png)
 ### To use, open $PROFILE...
 ```powershell
