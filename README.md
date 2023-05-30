@@ -1,8 +1,10 @@
 # funkydrac 🧛👻
 
-## Dracula themed oh-my-zsh themes based on [funky](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme), an [oh-my-posh theme](#aliensdracula-oh-my-posh) based on [aliens](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json), and a fork of [dracula](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/dracula.omp.json)
+## Dracula themed oh-my-zsh themes based on [funky](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme), an [oh-my-posh theme](#aliensdracula-oh-my-posh) based on [aliens](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json), and a [fork](#oh-my-posh-dracula-fork-🌙-🧛) of [dracula](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/dracula.omp.json)
 
 ### These themes use the [Dracula color scheme for Windows Terminal](https://draculatheme.com/windows-terminal)
+
+# zsh themes
 
 ## funkydrac 🧛
 
@@ -12,11 +14,13 @@
 
 ![funkydrac2](./samples/funkydrac2.png)
 
-## aliensdracula 🛸 (oh-my-posh)
+# oh-my-posh themes
+
+## aliensdracula 🛸
 
 ![aliensdracula](./samples/aliensdracula.png)
 
-## oh-my-posh dracula fork
+## oh-my-posh dracula fork 🌙 🧛
 
 ![dracula](./samples/dracula.png)
 
