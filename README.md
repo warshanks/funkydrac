@@ -41,5 +41,5 @@ oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/warshanks/funky
 ### on macOS open ~/.zprofile and add
 
 ```bash
-eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/warshanks/funkydrac/main/aliensdracula.omp.json)"
+eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/warshanks/funkydrac/main/dracula.omp.json)"
 ```
