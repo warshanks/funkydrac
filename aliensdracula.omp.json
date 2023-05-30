@@ -33,7 +33,7 @@
           "type": "git"
         },
         {
-          "background": "#FF6471",
+          "background": "#ff5555",
           "foreground": "#ffffff",
           "leading_diamond": "<transparent,background>\ue0b0</>",
           "style": "diamond",
