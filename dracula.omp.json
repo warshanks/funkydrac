@@ -24,7 +24,7 @@
           "type": "path"
         },
         {
-          "background": "#50fa7b",
+          "background": "#ff79c6",
           "foreground": "#f8f8f2",
           "powerline_symbol": "\ue0b0",
           "properties": {
@@ -46,7 +46,7 @@
           "type": "node"
         },
         {
-          "background": "#ff79c6",
+          "background": "#44475a",
           "foreground": "#f8f8f2",
           "properties": {
             "time_format": "3:04 PM"
